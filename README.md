@@ -1,5 +1,6 @@
 # Machine Learning Model
 ## Responsible Person: NVoz aka Võ Văn Nam
+## Link Web: https://machine-learning-model.streamlit.app/
 
 ### Init venv
 ```python
